@@ -1,0 +1,9 @@
+{
+    "Type": "PrintPrep.V2.Parameters",
+    "OutputFormat": "Json",
+    "LayoutInstructionsUrl": "https://uploads.documents.cimpress.io/v1/uploads/906d22c3-f9e3-4cf4-9790-e33d5f13655b~122?tenant=default",
+    "ConvertAllTextToOutlines": true,
+    "PreflightParameters": {
+        "SkipPreflight": true
+    }
+}

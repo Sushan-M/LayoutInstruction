@@ -1,0 +1,34 @@
+{
+    "documentId": "3d5f2b26-e4a3-4e67-b4e6-d2f5e1a5317a",
+    "version": "2",
+    "deleted": false,
+    "revision": 0,
+    "owner": "1Q68Z3MeC83IdfeGOPsIzST86kUgZSvK@clients",
+    "tenant": "account:g2Ez5VaoZWoqU22XqPjTLU",
+    "document": {
+        "panels": [
+            {
+                "id": "00d041b4-0799-4b3a-8560-f386fd0b7735",
+                "name": "onepiece",
+                "width": "1103.4mm",
+                "height": "830.6999999999999mm",
+                "decorationTechnology": "directToGarment"
+            }
+        ]
+    },
+    "sku": "CIM-6470QAEE",
+    "skuVariables": {},
+    "metadata": {
+        "dclMetadata": [
+            {
+                "id": "templateDocumentReferenceUrl"
+            }
+        ],
+        "template": [
+            {
+                "id": "OnePiece"
+            }
+        ]
+    },
+    "fontRepositoryUrl": "https://fonts.documents.cimpress.io/prod"
+}
